@@ -3,3 +3,5 @@ Hallo nama saya jerry
 lagi coba github repo
 
 nambahin 1 baris lagi buat liat commit kedua
+
+saya seorang programmer
