@@ -6,8 +6,9 @@ kita edit yah buat tau hasilnya
 
 cabangnya udah ilang sekarang jadi 1 branch lagi
 
-ini ditambahin dari cabang 2
+halo ini nambah dari cabang 1 loh
 
-cabang 2 in
+cabang 1 in
 
-tambahin 1 baris lagi dari cabang 2
+jadi nambah 3 bari dari cabang 1
+
