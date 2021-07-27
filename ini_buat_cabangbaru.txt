@@ -3,3 +3,5 @@ haloo ini pecahan cabang dari cabang master loh
 apa kabar
 
 kita edit yah buat tau hasilnya
+
+cabangnya udah ilang sekarang jadi 1 branch lagi
